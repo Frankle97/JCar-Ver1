@@ -2,6 +2,9 @@
 
 * Language : Java
 * Design : Swing
-
 * Index - [MyCar_MODEL.java](https://github.com/Frankle97/JCar_Estimate/blob/master/Portpolio/src/MyCar/MyCar_MODEL.java)
+
+* Admin
+  ** ID : admin
+  ** PW : admin1234
 
