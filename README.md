@@ -2,7 +2,7 @@
 
 * Language : Java
 * Design : Swing
-* Index - [MyCar_MODEL.java](https://github.com/Frankle97/JCar_Estimate/blob/master/Portpolio/src/MyCar/MyCar_MODEL.java)
+* Index - [mycarApplication](https://github.com/Frankle97/java-mycar/blob/master/Portpolio/src/mycar/MycarApplication.java)
 
 * 관리자계정
   * ID : admin
