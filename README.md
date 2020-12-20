@@ -6,5 +6,5 @@
 
 * 관리자계정
   * ID : admin
-  * PW : admin1234
+  * PW : admin
 
