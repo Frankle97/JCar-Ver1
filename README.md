@@ -14,5 +14,5 @@
   * ID : **admin**
   * PW : **admin**
 
-### 🐛 시작하기
+### 🐛 시작
 * **[MycarApplication.java](https://github.com/Frankle97/createEstimate/blob/master/createEstimate/src/mycar/MycarApplication.java)**
