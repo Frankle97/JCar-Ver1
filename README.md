@@ -14,7 +14,7 @@
 * 달력 기능을 만들고 Swing으로 디자인하여 시승 예약을 할 수 있도록 구현하였습니다.
 
 ### 🐛 시작하기
-* **Index** - [MycarApplication.java](https://github.com/Frankle97/createEstimate/blob/master/createEstimate/src/mycar/MycarApplication.java)
+* **[MycarApplication.java](https://github.com/Frankle97/createEstimate/blob/master/createEstimate/src/mycar/MycarApplication.java)**
 
 ### 💻 관리자 로그인
   * ID : admin
