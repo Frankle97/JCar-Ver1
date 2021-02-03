@@ -14,5 +14,6 @@
   * ID : **admin**
   * PW : **admin**
 
-### 🐛 시작
+### 🐛 시작하기
+mycar 패키지 내의 MycarApplication.java 클래스를 Run하시면 실행됩니다.
 * **[MycarApplication.java](https://github.com/Frankle97/createEstimate/blob/master/createEstimate/src/mycar/MycarApplication.java)**
