@@ -102,7 +102,6 @@ class GuiSender extends Thread implements ActionListener {
 		try {
 			out.writeUTF(gui.text.getText());
 		} catch (IOException e1) {
-			System.out.println("SENDER2");
 			return;
 		}
 
@@ -127,7 +126,6 @@ class GuiReceiver extends Thread {
 		try {
 			in = new DataInputStream(socket.getInputStream());
 		} catch (Exception e) {
-			System.out.println("RECEIVER1");
 			return;
 		}
 	}
