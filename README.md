@@ -12,7 +12,7 @@
 
 ### 💻 관리자 로그인
   * ID : **admin**
-  * PW : **admin**
+  * PW : **admin1234**
 
 ### 🐛 시작하기
 * **[MycarApplication.java](https://github.com/Frankle97/createEstimate/blob/master/createEstimate/src/mycar/MycarApplication.java)**
